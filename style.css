@@ -41,6 +41,11 @@ body
     margin-top: 50px;
     margin-bottom: 30px;
 }
+.profile-info h2
+{
+    color:rgb(36, 97, 105);
+    
+}
 
 .social-media img
 {
